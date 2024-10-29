@@ -13,6 +13,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
+- [Videos](#video)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -69,6 +70,17 @@ Here are some screenshots to help you visualize the setup and configuration:
 
 ---
 
+## 🎥 Video Sample
+
+Experience the quality of the Equalizer configuration by watching the sample video below. Click the link to play:
+
+- [Sample Video](./videos/video.mkv)
+
+### Original Song
+- [Listen to the Original Song]([https://www.example.com/original-song](https://music.youtube.com/watch?v=wlQpmD_If7k&si=iVvJifdh6rExIQtb))
+
+
+---
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Please follow these steps for submitting a contribution:
