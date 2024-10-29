@@ -64,17 +64,8 @@ Here are some screenshots to help you visualize the setup and configuration:
 
 - **Equalizer Settings Overview**
   
-  ![Equalizer Settings Overview](./screenshots/equalizer_settings.png)
+  ![Equalizer Settings Overview](./screenshots/img.png)
 
-- **Frequency Gain Adjustments**
-  
-  ![Frequency Gain Adjustments](./screenshots/frequency_gain.png)
-
-- **Applied Configuration Screen**
-  
-  ![Applied Configuration](./screenshots/applied_configuration.png)
-
-> **Note**: Ensure that you have a `screenshots` folder in your repository with images matching the paths above.
 
 ---
 
